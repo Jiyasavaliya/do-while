@@ -7,16 +7,11 @@ int main() {
 	scanf("%d",&n);
  
  do{
- 	sum*=a;
- 	 	a++;
-
- 	
+sum*=a;
+a++; 	
 }
- 
- 
  while(a<=n);
-printf("%d",sum); 
- 	
+printf("%d",sum); 	
 }
 
 
